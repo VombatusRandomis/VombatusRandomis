@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VombatusRandomis
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Web Design
+- 👀 I’m interested in self-education tools.
+- 🌱 I’m currently learning Programming and Web Development.
+- 💞️ I’m looking to improve as Designer and Developer.
 - 📫 How to reach me: Twitter: @vombatusrandom
 
 <!---
